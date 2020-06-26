@@ -1,1 +1,1 @@
-web: gunicorn pline:wsgi --log-file -
+web: gunicorn allow:wsgi --log-file -

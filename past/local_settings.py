@@ -10,7 +10,7 @@ SECRET_KEY = 'uh^bna4r=m__e35$^e8@0**t7843d12l)aa&&b3n!2wt__ao8e'
 
 DEBUG = False
 
-ALLOWED_HOSTS = ["boiling-reaches-46539.herokuapp.com", "localhost", "127.0.0.1"]
+ALLOWED_HOSTS = ["*"]
 
 DATABASES = {
     'default': {
